@@ -72,10 +72,7 @@ function draw() {
 	collision(rock,m5);
 	collision(rock,m6);
 
-	strokeWeight(3);
-	stroke(0);
-	fill(255);
-    text('Let us Pluck the Mangoes !😋', 285, 22);
+	
 	
 }
 function collision(a,b){
